@@ -15,7 +15,7 @@ Este repositorio contiene el análisis de los accidentes de aviones con referenc
 El análisis de los accidentes de aviación es una disciplina crucial en la seguridad y la investigación de la aviación. Se enfoca en estudiar y comprender los factores que contribuyen a los accidentes aéreos.
 
 En este proyecto, exploraremos los principios y las metodologías utilizadas en el análisis de accidentes de aviación
-![Accidentes de Aviones](https://www.bing.com/images/create/avion-teniendo-un-accidente-en-png/646963a7b87448adb55dea2f61c296eb?id=XopN%2bvXFqNSx7TnqGl803Q%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&ajaxhist=0&ajaxserp=0)
+![Accidentes de Aviones](https://th.bing.com/th/id/OIG.SPb1MrrMdVouoURgxKQJ?pid=ImgGn)
 ## Datos
 
 Utilizaremos el dataset AcidentesAviones y tambien los dataset desde el año 2022 hasta el 2023 de National Transportation Safety Board ya que tiene los datos mas actualizados 
